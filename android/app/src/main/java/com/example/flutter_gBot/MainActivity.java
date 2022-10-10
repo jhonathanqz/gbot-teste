@@ -25,7 +25,7 @@ import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugins.GeneratedPluginRegistrant;
-import static com.example.flutter_gBot.services.ReadCodeService;
+import com.example.flutter_gBot.services.ReadCodeService;
 
 import static com.example.flutter_gBot.services.ReadCodeService.SHOW_RESULT;
 
