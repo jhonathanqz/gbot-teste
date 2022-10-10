@@ -1,0 +1,1 @@
+enum CouponType { percent, value }
