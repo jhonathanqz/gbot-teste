@@ -1,81 +1,98 @@
-[![](https://pbs.twimg.com/media/EKzBdw7WwAQrq8J.png)](https://www.gertec.com.br/)
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Gbot Teste" />
 
-  - Impressão 
-  - Código de Barras
-  - Leitura de Cartão NFC
-  - Integração com TEF Sw Express e Ger7
+  &#xa0;
 
-# Gertec Developer
-Quero fazer parte da Comunidade e receber informações.
-Está bem fácil.
- 
-[Cadastre-se aqui]( https://www.gertec.com.br/login/software-house/cadastro/)
+  <!-- <a href="https://gbotteste.netlify.com">Demo</a> -->
+</div>
 
-# GPOS700, TSG800, MP5
-GPOS700 é o POS com PCI e que permite você desenvolver um aplicativo Android nele e colocar a solução de cartão de credito também dentro dele.
+<h1 align="center">Gbot Teste</h1>
 
-O TSG800 é um terminal sem pagamento, um Smart Printer, mas você pode usar uma “moderninha” e parear a “moderninha” com ele por Bluetooth e fazer o pagamento.
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/jhonathanqz/gbot-teste?color=56BEB8">
 
-MP5 em breve teremos novidades sobre este Pinpad Bluetooth para você desenvolver pareando com o celular ou com o TSG800
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/jhonathanqz/gbot-teste?color=56BEB8">
 
-Em nosso site você pode ter acesso a mais informações, seguem links:
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/jhonathanqz/gbot-teste?color=56BEB8">
 
-**G700** https://www.gertec.com.br/produtos/gpos700/
+  <img alt="Licença" src="https://img.shields.io/github/license/jhonathanqz/gbot-teste?color=56BEB8">
 
-**G800** https://www.gertec.com.br/produtos/tsg800/
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jhonathanqz/gbot-teste?color=56BEB8" /> -->
 
-**MP5** https://www.gertec.com.br/produtos/mp5/
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/jhonathanqz/gbot-teste?color=56BEB8" /> -->
 
-# PILOTO MP5
-Desejo participar o Piloto com o Pinpad Bluetooth MP5, como fazer? Super simples, nos envie um e-mail com seu nome e telefone para **dev@gertec.com.br** com o título **“Piloto MP5”**.
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/jhonathanqz/gbot-teste?color=56BEB8" /> -->
+</p>
 
-Assim que tivemos disponível peças para desenvolvedor a preço reduzido e funcionando com a SwExpress e Multi-Chave, vamos te enviar a informação. 
- 
-# Desejo adquirir o equipamento para meu desenvolvimento
-A MP5 (Pinpad Bluetooth) ainda não está disponível pra desenvolvedor, em breve estará, sem dúvida e 100% integrado com a SwExpress.
+<!-- Status -->
 
-O GPOS700 para Desenvolvedor o valor e de R$1.099,00 em até 12x no cartão ou 28 dias no boleto.
- 
-Como adquirir? 
-  1. Preencha esta planilha em anexo com os dados de sua empresa 
-  2. E nos envie em dev@gertec.com.br
-  
-O TSG800 você pode adquirir direto de nosso e-commerce com uma promoção para Desenvolvedor
+<!-- <h4 align="center"> 
+	🚧  Gbot Teste 🚀 Em construção...  🚧
+</h4> 
 
-[Click aqui adquirir um TSG 800](
-https://loja.gertec.com.br/produto/terminal-smart-g800-para-desenvolvimento/)
+<hr> -->
 
-Código de Promoção : **TSG800DEV**
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="https://github.com/jhonathanqz" target="_blank">Autor</a>
+</p>
 
-Aplicando o código acima o preço fica em 999,00 Até 12X no Cartão  
+<br>
 
-# GITHUB e VIDEOS
-Nosso GitHub: [Gertec Developer](https://github.com/gertecdeveloper)
+## :dart: Sobre ##
 
-Nosso Canal de vídeos: [Gertec Developer YouTube](https://www.youtube.com/gertecdeveloper)
-  - [Video **“Out-Of-box”** do TSG800 e GPOS700]( https://www.youtube.com/watch?v=bW101g2mSgI&t=0s)
-  - [Playlist completa](https://www.youtube.com/c/GertecDeveloper/videos)
+Sobre o seu projeto
 
-# TEF no GPOS (MSITEF ou GER7 com GPOS700). 
-Para saber mais sobre uso do TEF SwExpress ou Ger7  com o GPOS700, entre em contato com nossa equipe
+## :sparkles: Funcionalidades ##
 
-#### **dev@gertec.com.br**
+:heavy_check_mark: Funcionalidade 1;\
+:heavy_check_mark: Funcionalidade 2;\
+:heavy_check_mark: Funcionalidade 3;
+
+## :rocket: Tecnologias ##
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## :white_check_mark: Pré requisitos ##
+
+Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+
+## :checkered_flag: Começando ##
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/jhonathanqz/gbot-teste
+
+# Entre na pasta
+$ cd gbot-teste
+
+# Instale as dependências
+$ yarn
+
+# Para iniciar o projeto
+$ yarn start
+
+# O app vai inicializar em <http://localhost:3000>
+```
+
+## :memo: Licença ##
+
+Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-## Software Express
-Para ter acesso a documentação, Simuladores e Roteiros de homologação, fale com nossa equipe:
+Feito com :heart: por <a href="https://github.com/jhonathanqz" target="_blank">Jhonathan Queiroz</a>
 
-#### **dev@gertec.com.br**
+&#xa0;
 
-
-#### **Ger7**
-
-Para ter acesso a documentação, Simuladores e Roteiros de homologação, favor se cadastrarem no seguinte link:
-
-https://integracao.ger7.com.br/
-
-Nossa equipe de Integração Tecnologica esta a disposição!
-
-#### **dev@gertec.com.br**
-
-
+<a href="#top">Voltar para o topo</a>
